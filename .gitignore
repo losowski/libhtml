@@ -1,0 +1,9 @@
+#Objects
+*.o
+
+#Compiled
+*.so
+*.cgi
+
+#Python
+*.pyc

@@ -1,0 +1,4 @@
+libhtml (1:0.1.01-1) unstable; urgency=low
+  * Pre-release development project (Closes: #-0)
+  * First packaging attempt
+ -- Eugene Losowski-Gallagher <eugene.losowskigallagher@googlemail.com>  Sun, 20 Aug 2017 01:00:00 +0100

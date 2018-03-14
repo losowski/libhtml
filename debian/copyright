@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: libhtml
+Upstream-Contact: ELGallagher
+Source: http://localhost/cgi-bin/web_engine_form_radio.cgi
+Disclaimer: This is a basic package sold as is
+Comment: Make Web Designers redundant
+
+Files:	*
+Copyright: 2017 Eugene Losowski Gallagher
+License:  ELG-1
+
+
+Licence ELG-1
+ This is a magic licence. Use of this code requires, admission that web-design is a dying ideal, and all hail C++

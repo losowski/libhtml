@@ -1,0 +1,13 @@
+Source: libhtml
+Section:non-free/libs
+Priority: optional
+Maintainer: Eugene Losowski-Gallagher <eugene.losowskigallagher@googlemail.com>
+Build-Depends: debhelper (>=9), libc6 (>=2.19), libstdc++6 (>=4.9.2), libgcc1(>=4.9.2)
+Standards-Version: 3.9.8
+
+Package: libhtml
+Architecture: any
+Depends: libc6 (>=2.19), libstdc++6 (>=4.9.2), libgcc1(>=4.9.2)
+Description: Generate string HTML output
+ Generate very common HTML statmenets using a C++ oriented library.
+ Allows building a CGI script using a very basic API to construct menus in a logical and simplified manner
